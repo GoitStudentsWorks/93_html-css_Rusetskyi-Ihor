@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/quality-in-mind-minimal/",
+    "build": "vite build --base=/93_html-css_Rusetskyi-Ihor/",
     "preview": "vite preview"
   },
   "devDependencies": {
